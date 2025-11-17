@@ -1,0 +1,7 @@
+{
+  "name": "MiAgenda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
