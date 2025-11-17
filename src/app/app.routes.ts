@@ -15,3 +15,4 @@ export const routes: Routes = [
     loadComponent: () => import('./pages/nuevatarea/nuevatarea.page').then( m => m.NuevatareaPage)
   },
 ];
+  
